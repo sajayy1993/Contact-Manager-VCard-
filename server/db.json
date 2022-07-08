@@ -1,0 +1,78 @@
+{
+  "contacts": [
+    {
+      "id": "D68NdWnw",
+      "name": "abhishek",
+      "photo": "data:image/png;base64,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",
+      "mobile": "8828323358",
+      "email": "kioomi.sharma@bisleri.co.in",
+      "company": "Water Supply",
+      "title": "gg",
+      "groupId": "3"
+    },
+    {
+      "id": "D68NdWnH",
+      "name": "Ajay Yadav",
+      "photo": "https://cdn0.iconfinder.com/data/icons/avatar-78/128/12-512.png",
+      "mobile": "9819068025",
+      "email": "sajayy1993@gmail.com",
+      "company": "Textle",
+      "title": "fgfg",
+      "groupId": "2"
+    },
+    {
+      "id": "D68NdWneH",
+      "name": "Arjun Sharma",
+      "company": "Bisleri tech",
+      "email": "arjunsharma@gmail.com",
+      "title": "Softwer Engineer",
+      "mobile": "7217692329",
+      "photo": "https://icons-for-free.com/iconfiles/png/512/headset+male+man+support+user+young+icon-1320196267025138334.png",
+      "groupId": "1"
+    },
+    {
+      "id": "D68NdWnHh",
+      "name": "vivek",
+      "photo": "https://thumbs.dreamstime.com/b/male-avatar-icon-beard-his-mouth-gray-background-male-avatar-icon-beard-his-mouth-123115272.jpg",
+      "mobile": "9819068003",
+      "email": "sajayy1993@gmail.com",
+      "company": "Bis Tech",
+      "title": "erre",
+      "groupId": "1"
+    },
+    {
+      "name": "Ajju Bhai",
+      "photo": "https://cdn.pixabay.com/photo/2018/08/28/13/29/avatar-3637561_1280.png",
+      "mobile": "9689795229",
+      "email": "Ajjau@gmail.com",
+      "company": "Transport",
+      "title": "Trasporter",
+      "groupId": "3",
+      "id": "RhxRipj"
+    }
+  ],
+  "groups": [
+    {
+      "id": "1",
+      "name": "Family"
+    },
+    {
+      "id": "2",
+      "name": "Colleague"
+    },
+    {
+      "id": "2",
+      "name": "Colleague"
+    },
+    {
+      "id": "3",
+      "name": "Service"
+    },
+    {
+      "id": "ci-TCO2"
+    },
+    {
+      "id": "TX-bLKz"
+    }
+  ]
+}
